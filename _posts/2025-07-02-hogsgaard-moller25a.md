@@ -22,10 +22,10 @@ lastpage: 2855
 page: 2822-2855
 order: 2822
 cycles: false
-bibtex_author: H\o{}gsgaard M\o{}ller, Mikael and Green Larsen, Kasper
+bibtex_author: M\o{}ller H\o{}gsgaard, Mikael and Green Larsen, Kasper
 author:
 - given: Mikael
-  family: Høgsgaard Møller
+  family: Møller Høgsgaard 
 - given: Kasper
   family: Green Larsen
 date: 2025-07-02
